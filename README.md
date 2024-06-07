@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,vue,symfony,nodejs" />
 
 <h3 align="left">Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
 
 
 
