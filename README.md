@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611b41j5e483idahaoc5fdn91zytq8w5n8m8hdq8bre&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <!--
 **NgawangChoedenShankentsang/NgawangChoedenShankentsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
