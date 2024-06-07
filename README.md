@@ -1,6 +1,9 @@
 ## Tashi Delek 👋
-![](https://i.pinimg.com/originals/af/07/ed/af07ed777318ec7c474804dbf7afdffb.gif)
 
+<div align="center">
+ 
+  ![](https://i.pinimg.com/originals/af/07/ed/af07ed777318ec7c474804dbf7afdffb.gif)
+</div>
 
 <h3 align="left">Connect with me:</h3>
  <a href="https://codepen.io/Ngawang-Choeden">
