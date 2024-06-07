@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![](https://i.pinimg.com/originals/af/07/ed/af07ed777318ec7c474804dbf7afdffb.gif)
+
 <!--
 **NgawangChoedenShankentsang/NgawangChoedenShankentsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +21,5 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,php,symfony,mysql)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,vue,symfony,mysql,nodejs,vscode,figma)](https://skillicons.dev)
