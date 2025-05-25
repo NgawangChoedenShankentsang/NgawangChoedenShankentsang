@@ -9,7 +9,7 @@
 
 
 ### Languages and Tools:
-<img src="https://skillicons.dev/icons?i=js,html,css,php,typescript,vue,symfony,nextjs,nodejs,bootstrap,tailwind,mysql,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=js,html,css,php,typescript,vue,symfony,laravelnextjs,nodejs,bootstrap,tailwind,mysql,vscode,figma,postman" />
 
 
 ### Most Used Languages:
